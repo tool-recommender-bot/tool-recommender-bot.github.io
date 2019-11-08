@@ -1,11 +1,11 @@
 # Understanding the Impact of Suggested Changes on Recommendations Between Developers
 Website for the suggested changes study research artifacts
 
-## RQ1
+## RQ1: Suggested Changes Categorization
 
 [Coding Criteria](./files/definitions.txt)
 
-## RQ4
+## RQ4: User Study Recommendations
 
 [Email](./files/email.txt)
 
