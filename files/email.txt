@@ -1,0 +1,6 @@
+Hi {participant}!
+
+Have you tried using ABC, a static analysis tool to automatically find common programming errors in your JavaScript code? This tool can prevent programming errors in production and decreases debugging time so you can focus on more important tasks. Running the tool on your project can find numerous errors in your code and it's currently used by over 65,000 GitHub repositories! 
+ABC can be installed from the command-line, as a plugin for most popular IDEs, or integrated in to your preferred continuous integration build system. If you think you might want to try this tool, check out the website for more information.
+
+Thanks!
